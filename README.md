@@ -1,4 +1,4 @@
 Terra Examples
 ==============
 
-A repository of [Terra](http://terralang.org) example programs
+A repository of example [Terra](http://terralang.org) programs
