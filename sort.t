@@ -1,8 +1,3 @@
-local C = terralib.includecstring [[
-#include <stdio.h>
-#include <stdlib.h>
-]]
-
 terra swap(a : &int, b : &int)
     @a, @b = @b, @a
 end
