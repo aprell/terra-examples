@@ -1,6 +1,6 @@
 CFLAGS += -Wall -Wextra
 
-OBJS = add.o terra_add.o
+OBJS := add.o terra_add.o
 
 add: $(OBJS)
 
@@ -8,6 +8,6 @@ add: $(OBJS)
 	terra $<
 
 clean:
-	rm -f add $(OBJS)
+	$(RM) add $(OBJS)
 
 .PHONY: clean
