@@ -10,5 +10,9 @@ A repository of example [Terra](http://terralang.org) programs
   disassembled with `f:disas()`, which shows the function's LLVM IR and
   assembly.
 
-- Tested with Terra release [2016-03-25](
-  https://github.com/zdevito/terra/releases/tag/release-2016-03-25)
+- Tested with Terra [1.0.0-rc1](https://github.com/terralang/terra/releases/tag/release-1.0.0-rc1)
+
+References
+----------
+
+- [On the State of Terra in 2022](https://elliottslaughter.com/2022/05/state-of-terra)
